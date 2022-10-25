@@ -4,7 +4,7 @@ import os
 from fuzzywuzzy import fuzz
 
 
-bot = telebot.TeleBot('5749401917:AAFHfMSnviBYrl-SbuL8Ohw5bet5Xjdpucc')
+bot = telebot.TeleBot('')
 mas = []
 
 if os.path.exists('data/boltun.txt'):
